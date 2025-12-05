@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi Guys 👋
+My name is Suryansh and i am an AI engineer who's trained at Monash university in Masters of Artificial Intelligence interested in neural networks, use of in robotics/cybersecurity sector or anything related to AI!! and i also have a bachelors degree of Mechanical and autommation engineering from IP university.
+- 🔭 I’m currently working on a stealth startup in the field of cybersecuity & AI 
+- 🌱 I’m currently in the final semester of my masters degree at Monash university.
+- 👯 I’m looking to collaborate on ideas where i can use my AI skills to develop some AI-powered products for market so drop text for ideas or work collaboration on [suryansh23sharma@gmail.com]
 
 <!--
 **aryabhardwaj23/aryabhardwaj23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
