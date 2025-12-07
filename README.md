@@ -27,11 +27,6 @@ Here are some ideas to get you started:
   Welcome to my Suryansh AI Universe!
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryabhardwaj23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/aryabhardwaj23?label=Followers&style=social" alt="GitHub followers" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -146,8 +141,9 @@ me.say_hi()
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryabhardwaj23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryabhardwaj23&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aryabhardwaj23&show_icons=true&theme=tokyonight)
+
 </div>
 
 <div align="center">
@@ -166,6 +162,7 @@ me.say_hi()
   <img src="https://github-profile-trophy.vercel.app/?username=aryabhardwaj23&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy"/>
 </div>
 
+<!--
 ---
 
 ## 🔥 Featured Projects
@@ -173,17 +170,17 @@ me.say_hi()
 <div align="center">
 
 ### 🎯 Computer Vision & Deep Learning
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryabhardwaj23&repo=your-cv-project&theme=tokyonight)](https://github.com/aryabhardwaj23/your-cv-project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryabhardwaj23&repo=your-dl-project&theme=tokyonight)](https://github.com/aryabhardwaj23/your-dl-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryabhardwaj23&repo=your-cv-project&theme=tokyonight)](https://github.com/aryabhardwaj23/COMPUTER-VISION)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryabhardwaj23&repo=your-dl-project&theme=tokyonight)](https://github.com/aryabhardwaj23/DEEP-LEARNING)
 
-### 💬 NLP & LLMs
+### 💬 NLP & Machine Learning
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryabhardwaj23&repo=your-nlp-project&theme=tokyonight)](https://github.com/aryabhardwaj23/your-nlp-project)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryabhardwaj23&repo=your-llm-project&theme=tokyonight)](https://github.com/aryabhardwaj23/your-llm-project)
 
 </div>
 
 ---
-
+-->
 ## 🤝 Let's Collaborate!
 
 <div align="center">
