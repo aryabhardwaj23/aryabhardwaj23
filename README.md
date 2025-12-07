@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 About Me
+## 🤖 About Me
 
 ```python
 class SuryanshSharma:
@@ -60,7 +60,7 @@ me.say_hi()
 
 ---
 
-## 🎯 What I'm Up To
+## 🔒 What I'm Up To
 
 - 🔭 **Working on:** Stealth startup in cybersecurity & AI
 - 🎓 **Studying:** Final semester of Masters at Monash University
