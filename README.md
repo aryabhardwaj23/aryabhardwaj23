@@ -162,6 +162,12 @@ me.say_hi()
   <img src="https://github-profile-trophy.vercel.app/?username=aryabhardwaj23&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy"/>
 </div>
 
+
+## 🔥 Featured Projects
+### 🎯 Computer Vision & Deep Learning
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryabhardwaj23&repo=your-cv-project&theme=tokyonight)](https://github.com/aryabhardwaj23/COMPUTER-VISION)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryabhardwaj23&repo=your-dl-project&theme=tokyonight)](https://github.com/aryabhardwaj23/DEEP-LEARNING)
+
 <!--
 ---
 
