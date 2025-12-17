@@ -163,10 +163,6 @@ me.say_hi()
 </div>
 
 
-## 🔥 Featured Projects
-### 🎯 Computer Vision & Deep Learning
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryabhardwaj23&repo=your-cv-project&theme=tokyonight)](https://github.com/aryabhardwaj23/COMPUTER-VISION)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryabhardwaj23&repo=your-dl-project&theme=tokyonight)](https://github.com/aryabhardwaj23/DEEP-LEARNING)
 
 <!--
 ---
