@@ -156,12 +156,6 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryabhardwaj23&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy"/>
-</div>
-
 
 
 <!--
