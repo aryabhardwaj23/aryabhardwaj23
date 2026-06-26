@@ -158,7 +158,6 @@ me.say_hi()
 
 
 
-<!--
 ---
 
 ## 🔥 Featured Projects
@@ -166,17 +165,19 @@ me.say_hi()
 <div align="center">
 
 ### 🎯 Computer Vision & Deep Learning
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryabhardwaj23&repo=your-cv-project&theme=tokyonight)](https://github.com/aryabhardwaj23/COMPUTER-VISION)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryabhardwaj23&repo=your-dl-project&theme=tokyonight)](https://github.com/aryabhardwaj23/DEEP-LEARNING)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryabhardwaj23&repo=COMPUTER-VISION&theme=tokyonight)](https://github.com/aryabhardwaj23/COMPUTER-VISION)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryabhardwaj23&repo=DEEP-LEARNING&theme=tokyonight)](https://github.com/aryabhardwaj23/DEEP-LEARNING)
 
 ### 💬 NLP & Machine Learning
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryabhardwaj23&repo=your-nlp-project&theme=tokyonight)](https://github.com/aryabhardwaj23/your-nlp-project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryabhardwaj23&repo=your-llm-project&theme=tokyonight)](https://github.com/aryabhardwaj23/your-llm-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryabhardwaj23&repo=NATURAL-LANGUAGE-PROCESSING-NLP&theme=tokyonight)](https://github.com/aryabhardwaj23/NATURAL-LANGUAGE-PROCESSING-NLP)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryabhardwaj23&repo=MACHINE-LEARNING&theme=tokyonight)](https://github.com/aryabhardwaj23/MACHINE-LEARNING)
+
+### 🤖 Reinforcement Learning
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryabhardwaj23&repo=REINFORCEMENT-LEARNING&theme=tokyonight)](https://github.com/aryabhardwaj23/REINFORCEMENT-LEARNING)
 
 </div>
 
 ---
--->
 ## 🤝 Let's Collaborate!
 
 <div align="center">
