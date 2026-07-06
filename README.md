@@ -175,6 +175,10 @@ me.say_hi()
 ### 🤖 Reinforcement Learning
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryabhardwaj23&repo=REINFORCEMENT-LEARNING&theme=tokyonight)](https://github.com/aryabhardwaj23/REINFORCEMENT-LEARNING)
 
+### 🏦 Fintech & Applied AI
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryabhardwaj23&repo=transaction-ledger-engine&theme=tokyonight)](https://github.com/aryabhardwaj23/transaction-ledger-engine)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryabhardwaj23&repo=lung-3d-analysis-platform&theme=tokyonight)](https://github.com/aryabhardwaj23/lung-3d-analysis-platform)
+
 </div>
 
 ---
